@@ -33,10 +33,16 @@ SOFTWARE.
 
 How do you use nextgame?
 =======================================
-Make sure you've imported nextgame.
+1. Import nextgame.
 
-**Classes:**
+2. Have these events using the *@[game: Game].event*:
+*def* **on_game_start**
+*def* **on_game_over**
+*def* **on_game_end**
 
-*Game:*
+These events are critical for gameplay.
 
-Make sure 
+**Classes**
+=======================================
+**Game**
+The Game class is important for *creating* the game, of course!
