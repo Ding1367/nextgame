@@ -45,8 +45,4 @@ How do you use nextgame?
 
 These events are critical for gameplay.
 
-**Classes**
-=======================================
-**Game**
-
-The Game class is important for *creating* the game, of course!
+More information on [Introduction](https://www.youtube.com/).
