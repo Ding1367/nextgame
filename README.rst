@@ -36,8 +36,11 @@ How do you use nextgame?
 1. Import nextgame.
 
 2. Have these events using the *@[game: Game].event*:
+
 *def* **on_game_start**
+
 *def* **on_game_over**
+
 *def* **on_game_end**
 
 These events are critical for gameplay.
